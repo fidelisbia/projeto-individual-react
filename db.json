@@ -1,0 +1,51 @@
+{
+    "Rotas": [
+      {
+        "id": 1,
+        "Aluno(a)": "Ana Carolina de Sousa",
+        "turma": "305",
+        "escolaridade": "9°ano ensino fundamental",
+        "responsável": "Regina Maria de Sousa",
+        "categoria_id": 1
+      },
+      {
+        "id": 1,
+        "Aluno(a)": "Carlos Fernandes Santos",
+        "turma": "702",
+        "escolaridade": "1°ano ensino médio",
+        "responsável": "Valeria Fernandes",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Eduardo Ferreira Santos",
+        "cargo": "professor(a)",
+        "Matéria": "Geografia",
+        "Data de adimissão": "25/03/2017",
+        "categoria_id": 2
+      },
+      {
+        "id": 3,
+        "Período": "1ºBimestre",
+        "turma": "305",
+        "série": "9°ano",
+        "média": 6.0,
+        "categoria_id": 1
+      },
+    ],
+
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "alunos"
+      },
+      {
+        "id": 2,
+        "nome": "funcionarios"
+      }
+      {
+        "id": 3,
+        "nome": "avaliação"
+      }
+    ]
+  }
