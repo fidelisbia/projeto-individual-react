@@ -1,14 +1,36 @@
 [
   {
-    "Professores": [
-      {
-        "id": 3,
+    
+      
+        "id": 1,
         "nome": "Eduardo Ferreira Santos",
         "cargo": "professor(a)",
         "Matéria": "Geografia",
         "Data de adimissão": "25/03/2017",
         "categoria_id": 2
+      },
+      {
+        "id": 2,
+        "nome": "Marcelo Conrado",
+        "cargo": "professor(a)",
+        "Matéria": "História",
+        "Data de adimissão": "30/04/2019",
+        "categoria_id": 2
+      },
+      {
+        "id": 3,
+        "nome": "Alexandra Pereira",
+        "cargo": "professor(a)",
+        "Matéria": "Matemática",
+        "Data de adimissão": "15/02/2018",
+        "categoria_id": 2
+      },
+      {
+        "id": 4,
+        "nome": "Luciana Albuquerque",
+        "cargo": "professor(a)",
+        "Matéria": "Biologia",
+        "Data de adimissão": "09/11/2021",
+        "categoria_id": 2
       }
     ]
-  }
-]

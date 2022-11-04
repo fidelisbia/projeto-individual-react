@@ -1,14 +1,34 @@
 [
   {
-    "Avaliacao": [
-      {
-        "id": 4,
+        "id": 1,
         "Período": "1ºBimestre",
         "turma": "305",
-        "série": "9°ano",
+        "série": "9°ano do ensino fundamental",
         "média": 6.0,
         "categoria_id": 1
-      }
-    ]
-  }
+      },
+      {
+        "id": 2,
+        "Período": "2ºBimestre",
+        "turma": "602",
+        "série": "9°ano do ensino fundamental",
+        "média": 8.0,
+        "categoria_id": 1 
+      },
+      {
+        "id": 3,
+        "Período": "3ºBimestre",
+        "turma": "603",
+        "série": "2°ano do ensino médio",
+        "média": 10.0,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "Período": "4ºBimestre",
+        "turma": "502",
+        "série": "1°ano do ensino médio",
+        "média": 7.0,
+        "categoria_id": 1
+      } 
 ]

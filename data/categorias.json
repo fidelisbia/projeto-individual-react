@@ -7,11 +7,15 @@
             },
             {
                 "id": 2,
-                "nome": "funcionarios"
+                "nome": "professores"
             },
             {
                 "id": 3,
                 "nome": "avaliação"
+            },
+            {
+                "id": 4,
+                "nome": "outros"
             }
         ]
     }
