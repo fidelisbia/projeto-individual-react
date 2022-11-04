@@ -1,0 +1,18 @@
+[
+    {
+        "categorias": [
+            {
+                "id": 1,
+                "nome": "alunos"
+            },
+            {
+                "id": 2,
+                "nome": "funcionarios"
+            },
+            {
+                "id": 3,
+                "nome": "avaliação"
+            }
+        ]
+    }
+]

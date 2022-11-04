@@ -1,0 +1,14 @@
+[
+  {
+    "Professores": [
+      {
+        "id": 3,
+        "nome": "Eduardo Ferreira Santos",
+        "cargo": "professor(a)",
+        "Matéria": "Geografia",
+        "Data de adimissão": "25/03/2017",
+        "categoria_id": 2
+      }
+    ]
+  }
+]

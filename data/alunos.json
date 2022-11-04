@@ -1,0 +1,22 @@
+[
+  {
+    "Alunos": [
+      {
+        "id": 1,
+        "Aluno(a)": "Ana Carolina de Sousa",
+        "turma": "305",
+        "escolaridade": "9°ano ensino fundamental",
+        "responsável": "Regina Maria de Sousa",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "Aluno(a)": "Carlos Fernandes Santos",
+        "turma": "702",
+        "escolaridade": "1°ano ensino médio",
+        "responsável": "Valeria Fernandes",
+        "categoria_id": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Avaliacao": [
+      {
+        "id": 4,
+        "Período": "1ºBimestre",
+        "turma": "305",
+        "série": "9°ano",
+        "média": 6.0,
+        "categoria_id": 1
+      }
+    ]
+  }
+]
